@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sbf.shafi.autocompletetext.AutoCompleteTextActivity">
+
+    <AutoCompleteTextView
+        android:id="@+id/autocmptx"
+        android:gravity="center"
+        android:hint="Bangladesh 64 District"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginRight="36dp"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:text=""/>
+
+</LinearLayout>
