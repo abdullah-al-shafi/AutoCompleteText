@@ -37,5 +37,8 @@ public class AutoCompleteTextActivity extends AppCompatActivity {
         actv.getDropDownAnchor();
         actv.getListSelection();
         actv.setTextColor(Color.BLUE);
+
+        //complete
     }
+
 }
